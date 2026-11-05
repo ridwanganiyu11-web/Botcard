@@ -1,0 +1,12 @@
+{
+  "contractName": "BotCardRegistry",
+  "contractAddress": "0xc86b1d5428ff1D2686373252a5becf1E066A2F09",
+  "deployer": "0x5E889b72A1464489e7df124280Ee4A5c11b039B3",
+  "chainId": 968,
+  "network": "botchain",
+  "rpcUrl": "https://rpc.bohr.life",
+  "explorerUrl": "https://scan.bohr.life/address/0xc86b1d5428ff1D2686373252a5becf1E066A2F09",
+  "gasUsed": "2050707",
+  "timestamp": "2026-11-05T15:21:35.000Z"
+}
+
