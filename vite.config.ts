@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      "@wagmi/core/tempo": path.resolve(__dirname, "src/utils/tempo-shim.ts"),
+      "@wagmi/core/tempo": path.resolve("src/utils/tempo-shim.ts"),
     },
   },
   server: {
